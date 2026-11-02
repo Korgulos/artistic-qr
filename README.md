@@ -40,8 +40,8 @@ download.download = blob.type === 'image/gif' ? 'qr.gif' : 'qr.png';
 // Revoke url when no longer needed.
 ```
 
-- `scale`: pixels per module, 3â€“10; default 4.
-- `dotSize`: 25â€“100; default 62.68.
+- `scale`: pixels per module, 3-10; default 4.
+- `dotSize`: 25-100; default 62.68.
 - `animated`: inferred from image/gif Blob MIME type. Set explicitly for GIF URLs.
 - `signal`: AbortSignal to cancel and terminate the worker.
 - `timeoutMs`: positive timeout in milliseconds; default 60000.
