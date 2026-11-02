@@ -1,4 +1,4 @@
-# Artistic QR â€” unpublished preview
+# Artistic QR
 
 Framework-independent TypeScript library for browser PNG and animated GIF QR
 generation. No Python runtime, CDN scripts or server-side image processing.
