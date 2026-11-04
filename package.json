@@ -1,6 +1,6 @@
 {
   "name": "artistic-qr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Artistic QR Code generator for JavaScript and TypeScript with image and animated GIF backgrounds, customizable dots, shapes and colors.",
   "type": "module",
   "license": "MIT",
